@@ -1,2 +1,2 @@
-# Pose-estimation-opencv-python
+#opencv-python
 Pose estimation opencv python
